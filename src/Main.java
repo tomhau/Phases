@@ -7,7 +7,12 @@ public class Main {
         int inputTemp = 23;
 
 
-        
+        double x = 3.4;
+
+        x = x + 4;
+
+
+
 
 
         System.out.println("");
