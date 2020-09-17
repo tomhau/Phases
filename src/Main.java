@@ -1,22 +1,17 @@
+
+
 public class Main {
 
     public static void main(String[] args) {
 
-        // Declararation
+        // (1) Declararation
 
-        int inputTemp = 23;
+        // (2) Getting input
 
-
-        double x = 3.4;
-
-        x = x + 4;
+        // (3) Cmputation(s)
 
 
-
-
-
-        System.out.println("");
-
+        // (4) Presenting output
 
 
 
